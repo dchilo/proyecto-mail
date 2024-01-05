@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "libraries/postgresql-42.2.2.jar",
+        "libraries/javax.mail.jar",
+        "libraries/jfreechart-1.5.4.jar",
+        "libraries/activation.jar",
+        "libraries/dotenv-java-3.0.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
